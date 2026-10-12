@@ -17,7 +17,6 @@ Building practical software systems — from full-stack applications and backend
 I'm a Computer Science undergraduate interested in building reliable applications and exploring how AI can support real-world workflows. My work spans full-stack development, backend systems, distributed systems, and applied machine learning.
 
 - **Focus areas:** Full-stack engineering, backend systems, agentic AI, and applied ML
-- **Current project:** JASIPA — a human-in-the-loop job applicant screening and interview-panel system
 - **Engineering interests:** System design, responsible AI, useful automation, and maintainable software
 
 ## Featured Projects
